@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "bs-platform" , "/home/caayu/dev/reason/tdd-reason/node_modules/bs-platform" ] , [ "reason-react" , "/home/caayu/dev/reason/tdd-reason/node_modules/reason-react" ] ] , "generated" : [] }
